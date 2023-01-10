@@ -1,8 +1,8 @@
 # gorilla/mux
 
-[![GoDoc](https://godoc.org/github.com/gorilla/mux?status.svg)](https://godoc.org/github.com/gorilla/mux)
-[![CircleCI](https://circleci.com/gh/gorilla/mux.svg?style=svg)](https://circleci.com/gh/gorilla/mux)
-[![Sourcegraph](https://sourcegraph.com/github.com/gorilla/mux/-/badge.svg)](https://sourcegraph.com/github.com/gorilla/mux?badge)
+[![GoDoc](https://godoc.org/github.com/weex/mux?status.svg)](https://godoc.org/github.com/weex/mux)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/weex/mux/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/weex/mux/tree/master)
+[![Sourcegraph](https://sourcegraph.com/github.com/weex/mux/-/badge.svg)](https://sourcegraph.com/github.com/weex/mux?badge)
 
 ![Gorilla Logo](https://cloud-cdn.questionable.services/gorilla-icon-64.png)
 
